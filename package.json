@@ -1,0 +1,42 @@
+{
+  "name": "learn-fullstack-javascript",
+  "version": "1.0.0",
+  "description": "learning fullstack javascript dev: mongodb, node.js, react.js with Samer Buna",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dragon201701/learn-fullstack-javascript.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Dragon201701/learn-fullstack-javascript/issues"
+  },
+  "homepage": "https://github.com/Dragon201701/learn-fullstack-javascript#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.5.5",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.0",
+    "@babel/node": "^7.8.7",
+    "@babel/plugin-proposal-class-properties": "^7.8.3",
+    "@babel/preset-env": "^7.9.0",
+    "@babel/preset-react": "^7.9.1",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^2.5.1",
+    "nodemon": "^2.0.2",
+    "webpack": "^4.42.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
